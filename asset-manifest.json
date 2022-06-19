@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ACIC/static/css/main.4020a768.css",
+    "main.js": "/ACIC/static/js/main.258fd4bd.js",
+    "static/media/swati_munjal.jpg": "/ACIC/static/media/swati_munjal.c18ae736c8c4ea1b364c.jpg",
+    "static/media/deepak_pandit.jpg": "/ACIC/static/media/deepak_pandit.7856b2184fed2675d810.jpg",
+    "static/media/abhay_sharma.jpg": "/ACIC/static/media/abhay_sharma.4b756f18afc7bc1dab6c.jpg",
+    "static/media/akshay_munjal.jpg": "/ACIC/static/media/akshay_munjal.ca9030f024fc3dd83c66.jpg",
+    "static/media/davinder_sir_img.png": "/ACIC/static/media/davinder_sir_img.14aa23ddc025f3dba70c.png",
+    "static/media/manoj_arora.jpg": "/ACIC/static/media/manoj_arora.c62f604e80381d1527df.jpg",
+    "index.html": "/ACIC/index.html",
+    "main.4020a768.css.map": "/ACIC/static/css/main.4020a768.css.map",
+    "main.258fd4bd.js.map": "/ACIC/static/js/main.258fd4bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4020a768.css",
+    "static/js/main.258fd4bd.js"
+  ]
+}
